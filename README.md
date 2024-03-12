@@ -2,8 +2,8 @@
 ## Data Scientist at Anchan Technologies 
 [March2023- Present ]
 * Apply advanced statistical models to derive actionable insights
-* Develop machine learning algorithms for predictive analytics and contribute to continuous improvement in data-driven decision-making processes
-* Clean and preprocess data
+* Develop machine learning algorithms for predictive analytics and contribute to continuous improvement in data-driven decision-making processes
+* Clean and preprocess data
 * Conduct basic data analysis to identify trends, patterns, and insights within the dataset
 ## Machine Learning Engineer at VisionBotix 
 [February2022- Jan2023 ]
@@ -51,6 +51,10 @@ We have 10 unique disease classes.
 We also have 10 variesites of RICE in this data.
 We have rice plant age ranging from 45 - 85 days.
 ADT45 is the most common variety inside the training data.
+## 5: Project on humanoid goalkeeper
+The project focuses on a humanoid goalkeeper that involves detecting the 2D position of objects using
+stereo vision, predicting the ballistic trajectory of the ball, and calibrating the camera while rectifying
+the image.
 
 # Education
 Bachelors of Science in Information Technology, Mirpur University of Science &
@@ -68,3 +72,27 @@ Pandas, Numpy, Scipy, Matplotlib, Seaborn,SQL, Plotly Express,Tableau
 * Google Data Analytics Professional Certificate by Coursera.4/8 completed
 * PCAP – Certified Associate in Python Programming. Awarded by openEdge[PCAP-31-03]
 * SQL for Data Science by Coursera[CNHX2KEWD3KK
+
+# Honors and Awards
+* Ambassador for WWF-Pakistan International Eco Internship Program by WWF-Pakistan
+* Awarded with the Certificate of Achievement from Director Student Affairs on organizing
+MUST Go Green16 Plantation Campaign
+* Awarded with the Certificate of Acknowledgment for support and involvement in nature
+conservation by World Wildlife Fund for Nature -Pakistan
+* Awarded with the Certificate of Merit for Runner Up in Tug of War in sports week 2015-2016
+from Director of Sports MUST
+* Awarded with the Certificate of Merit for 3rd Position in Relay Race in sports week 2014-
+2015.from Director of Sports MUST
+# References
+* 1-Mr. Nahman Tariq Ratyal Associate Professor
+Mirpur University of Science and Technology Mirpur, Pakistan
+nahman.csit@must.edu.pk
+Tell:+923458585619
+* 2-Visionbotix (www.visionbotix.com)Islamabad, Pakistan
+info@visionbotix.com
+Tell:+9251 8896050
+* 2-Anchan Technologies (www.anchantech.com)Skardu, Pakistan
+contacts@anchantech.com
+Tell:+92 346 848399
+
+
