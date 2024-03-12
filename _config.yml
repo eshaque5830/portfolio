@@ -1,5 +1,5 @@
 title: Muhammad Ishaque
-logo: /assets/img/pic.jpg
+logo: <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden;"><img src="/assets/img/pic.jpg" alt="Logo" style="width: 100%; height: auto;"></div>
 description: Data Scientist
 show_downloads: true
 theme: jekyll-theme-minimal
