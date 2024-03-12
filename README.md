@@ -1,15 +1,18 @@
 # Technical Experience
-## Data Scientist at Anchan Technologies [March2023- Present ]
+## Data Scientist at Anchan Technologies 
+[March2023- Present ]
 * Apply advanced statistical models to derive actionable insights
 * Develop machine learning algorithms for predictive analytics and contribute to continuous improvement in data-driven decision-making processes
 * Clean and preprocess data
 * Conduct basic data analysis to identify trends, patterns, and insights within the dataset
-## Machine Learning Engineer at VisionBotix [February2022- Jan2023 ]
+## Machine Learning Engineer at VisionBotix 
+[February2022- Jan2023 ]
 * Detecting 2D position of object,Predicting ballistic trajectory of object and
 Camera calibration.
 * Project Real Time Stereo Image Stitching:Find a set of distinctive keypoints, Define a region around each key points, Compute a local descriptor from the
 normalized region (SIFT Algorithm)
-## Product Support Associate at FlowTrack.co [March2020- Jan2022 ] 
+## Product Support Associate at FlowTrack.co 
+[March2020- Jan2022 ] 
 Try to understand the client’s issue and resolve it, Technical Support, Customer Support and Customer Service Operations
 
 # Projects
